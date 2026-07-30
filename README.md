@@ -15,7 +15,7 @@ Website ucapan ulang tahun romantis — satu halaman HTML, dari hero dengan coun
 
 1. Clone repo ini
    ```bash
-   git clone <url-repo-kamu>
+   git clone https://github.com/ssinuratxx-wq/birthday
    ```
 2. Buka `index.html` langsung di browser, atau publish lewat GitHub Pages
 3. Edit isi sesuai kebutuhan (lihat bagian **Kustomisasi** di bawah)
